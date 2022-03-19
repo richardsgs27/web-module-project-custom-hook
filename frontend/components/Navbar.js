@@ -8,7 +8,7 @@ const Navbar = (props) => {
 
   return (
     <nav className="navbar">
-      <h1>Crypto Tracker</h1>
+      <h1>Crypto Trackers</h1>
       <div className="dark-mode__toggle">
         <div
           onClick={toggleMode}
